@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/cogs-survey/static/css/main.0798caeb.css",
-    "main.js": "/cogs-survey/static/js/main.892350df.js",
+    "main.js": "/cogs-survey/static/js/main.6144b6ca.js",
     "static/js/787.1cebf91c.chunk.js": "/cogs-survey/static/js/787.1cebf91c.chunk.js",
     "index.html": "/cogs-survey/index.html",
     "main.0798caeb.css.map": "/cogs-survey/static/css/main.0798caeb.css.map",
-    "main.892350df.js.map": "/cogs-survey/static/js/main.892350df.js.map",
+    "main.6144b6ca.js.map": "/cogs-survey/static/js/main.6144b6ca.js.map",
     "787.1cebf91c.chunk.js.map": "/cogs-survey/static/js/787.1cebf91c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0798caeb.css",
-    "static/js/main.892350df.js"
+    "static/js/main.6144b6ca.js"
   ]
 }
