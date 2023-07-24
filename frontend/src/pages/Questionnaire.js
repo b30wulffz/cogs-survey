@@ -32,7 +32,7 @@ const Questionaire = (props) => {
     const userData = JSON.parse(localStorage.getItem("userData"));
     // const timeSpent = localStorage.getItem("timeSpent");
     axios
-      .post("http://localhost:2000/submit", {
+      .post("https://session-b6498407-3633-4fba-8199-d799941b6937.devbox.training.adobesensei.io/backend/submit", {
         user_id: userData.user._id,
         answers: answers,
       })

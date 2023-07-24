@@ -26,7 +26,7 @@ const DetailsForm = (props) => {
   const moveNext = () => {
     setLoading(true);
     axios
-      .post("http://localhost:2000/register", {
+      .post("https://session-b6498407-3633-4fba-8199-d799941b6937.devbox.training.adobesensei.io/backend/register", {
         email: email,
       })
       .then((response) => {
