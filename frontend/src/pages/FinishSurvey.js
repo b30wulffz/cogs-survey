@@ -9,7 +9,7 @@ const FinishSurvey = (props) => {
   let navigate = useNavigate();
 
   const moveNext = () => {
-    window.location = "mailto:shlokp@adobe.com";
+    navigate("/");
   };
 
   const { stopTimer } = useContext(UserContext);
@@ -68,7 +68,7 @@ const FinishSurvey = (props) => {
         }}
         onClick={() => moveNext()}
       >
-        Email Us
+        Submit Another Response
       </Button>
     </div>
   );

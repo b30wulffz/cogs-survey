@@ -38,7 +38,7 @@ const Mcq = (props) => {
           onClick={() => setOption(answer)}
           key={answer}
         >
-          <img src={`http://68.233.115.40:2000/image/${answer}`} 
+          <img src={`https://session-b6498407-3633-4fba-8199-d799941b6937.devbox.training.adobesensei.io/backend/image/${answer}`} 
             style={{
               border:"2px solid white",
               borderRadius: "10px",
